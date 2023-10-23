@@ -64,7 +64,7 @@ bool isCompound(const string& word, const unordered_set<string>& wordSet, unorde
 }
 
 int main() {
-    string filename = "C:\\JavaLearning\\input_02.txt"; // Here the input file will be attached accordingly
+    string filename = "input_02.txt"; // Here the input file will be attached accordingly
 
     try {
         unordered_set<string> wordSet;
